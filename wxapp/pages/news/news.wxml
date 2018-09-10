@@ -1,0 +1,18 @@
+<view class='news_wxml'>
+  <swiper class='swiper_image' indicator-dots='true' autoplay='true' interval='2000'>
+    <swiper-item>
+      <image src="{{banner1}}"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="{{banner2}}"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="{{banner3}}"></image>
+    </swiper-item>
+  </swiper>
+  <view class='art'>
+    <view class='art_list'>
+    </view>
+
+  </view>
+</view>

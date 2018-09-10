@@ -1,7 +1,9 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/move/move"
+    "pages/news/news"
+    
+    
   ],
   "window": {
     "navigationBarBackgroundColor": "#218868",

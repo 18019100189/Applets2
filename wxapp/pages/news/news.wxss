@@ -1,0 +1,11 @@
+.news_wxml{
+  width: 100%;
+}
+.swiper_image{
+  width: 100%;
+}
+.news_wxml swiper_image image{
+  width: 100%;
+  height: 800rpx;
+
+}
