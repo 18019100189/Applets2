@@ -1,0 +1,30 @@
+/* pages/index/index.wxss */
+.index{
+  display: flex;    /*修改显示模式为flex*/
+  flex-direction: column; /*修改为垂直显示*/
+  align-items: center;   /*水平居中*/
+
+}
+.image_bar{
+  width: 600rpx;
+  height: 400rpx;
+}
+.username{
+  margin-top: 100rpx;
+  font-size: 15px;
+  border: 2px solid #109D59;
+  padding: 5px 5px;
+  border-radius: 5px;
+  color: black;
+}
+.boder{
+  margin-top: 100rpx;  /*向下移动*/
+
+}
+.index .boder text{
+  font-size: 40rpx;
+  color: black; 
+  border: 2px solid #109D59;
+  padding: 5px 5px;
+  border-radius: 5px;   
+}

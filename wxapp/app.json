@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/move/move"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#218868",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "蓝莓派"
+  }
+
+}

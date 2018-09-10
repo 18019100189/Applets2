@@ -1,0 +1,11 @@
+<view class='index'>
+      <image class='image_bar' src='../image/ban.jpg'></image>
+      <view class="username" bindtap='gomoveTap'>
+      <text>我们一起听音乐。</text>
+      </view>
+      <view class="boder">
+      <text class='aaa'>和音乐一起去旅行</text>
+      </view>
+
+
+</view>
